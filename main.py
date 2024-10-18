@@ -5,7 +5,7 @@ import time
 import pandas as pd
 
 
-PATH = r"C:/Users/luca/Desktop/python code/chromedriver-win64/chromedriver.exe"
+PATH = r"path"
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
